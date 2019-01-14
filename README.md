@@ -1,2 +1,3 @@
-# revisaopython
-Revisão rápida de Python
+# Python Revision
+
+Basic concepts
